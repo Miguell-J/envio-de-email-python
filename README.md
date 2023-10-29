@@ -6,7 +6,9 @@ Este é um código de automação de envio de email utilizando a biblioteca PyAu
 
 Antes de executar este código, certifique-se de que você tenha o Python instalado em seu sistema. Além disso, instale a biblioteca PyAutoGUI usando o seguinte comando:
 
-  - pip install pyautogui
+```bash
+pip install pyautogui
+```
 
 ## Como usar
 
@@ -29,5 +31,5 @@ O código contém intervalos de tempo (time.sleep) para aguardar a carga das pá
 
 Lembre-se de que a automação de tarefas pode ser sensível e pode variar dependendo do seu sistema e configurações específicas. Certifique-se de testar o código em um ambiente controlado e seguro, de preferência em uma conta de teste do Gmail.
 
-Nota
+### Nota
 Este código é apenas um exemplo de automação simples. Para uso em produção ou tarefas mais complexas, é recomendável considerar outras abordagens, como usar APIs de email ou bibliotecas de automação mais avançadas. Tenha em mente que o uso indevido de automação pode violar os termos de serviço de serviços online, como o Gmail, então use-o com responsabilidade.
